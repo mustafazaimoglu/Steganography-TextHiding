@@ -127,7 +127,7 @@ hide_input_file_name = "lena.bmp";
 secret_message = "Work until you no longer have to introduce yourself!";
 output_file_name = "lenaTEXT.bmp";
 
-//hide(hide_input_file_name,secret_message,output_file_name);
+hide(hide_input_file_name,secret_message,output_file_name);
 
 /* UNHIDE */
 unhide_input_file_name = "lenaTEXT.bmp";
